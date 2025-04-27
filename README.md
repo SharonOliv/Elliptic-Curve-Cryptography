@@ -64,7 +64,7 @@ This repository shows the implementation of a secure key exchange mechanism usin
 
 3. Run the script:
     ```bash
-    python main.py
+    python ecc_aes.py
     ```
 
 4. Follow the prompts to encrypt and decrypt your message.
