@@ -55,11 +55,7 @@ This repository shows the implementation of a secure key exchange mechanism usin
 
 ## How to Run
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/ecc-aes-encryption.git
-    cd ecc-aes-encryption
-    ```
+1. Clone the repository
 
 2. Install required packages:
     ```bash
