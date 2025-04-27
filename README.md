@@ -2,7 +2,7 @@
 
 This repository shows the implementation of a secure key exchange mechanism using **Elliptic Curve Cryptography (ECC)** and performs **AES-based encryption and decryption** of messages. Additionally, it compares the performance and security characteristics of two elliptic curves: `secp256r1` and `secp384r1`.
 
-## Project Overview
+## Overview
 
 - **Key Exchange**: 
   - Generate ECC key pairs.
